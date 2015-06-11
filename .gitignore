@@ -59,6 +59,7 @@ gwt-unitCache/
 war/WEB-INF/deploy/
 war/WEB-INF/classes/
 war/WEB-INF/lib
+war/webapplicationtest/
 
 #compilation logs
 .gwt/
